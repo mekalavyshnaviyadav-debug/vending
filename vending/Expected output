@@ -1,0 +1,3 @@
+5 + 5  → Dispense = 1, Change = 0
+10     → Dispense = 1, Change = 0
+5 + 10 → Dispense = 1, Change = 1
